@@ -3243,5 +3243,69 @@
     ],
     "Version_Type":null,
     "Notes":null
+  },
+  {
+    "Song":"Survive (from the \"Memento Mori\" sessions)",
+    "Album":"Memento Mori: Mexico City",
+    "Year":2025.0,
+    "Writers":[
+      {
+        "name":"Martin Gore",
+        "age":"61-62"
+      },
+      {
+        "name":"Dave Gahan",
+        "age":"60"
+      }
+    ],
+    "Version_Type":null,
+    "Notes":null
+  },
+  {
+    "Song":"Life 2.0 (from the \"Memento Mori\" sessions)",
+    "Album":"Memento Mori: Mexico City",
+    "Year":2025.0,
+    "Writers":[
+      {
+        "name":"Martin Gore",
+        "age":"61-62"
+      }
+    ],
+    "Version_Type":null,
+    "Notes":null
+  },
+  {
+    "Song":"Give Yourself To Me (from the \"Memento Mori\" sessions)",
+    "Album":"Memento Mori: Mexico City",
+    "Year":2025.0,
+    "Writers":[
+      {
+        "name":"Martin Gore",
+        "age":"61-62"
+      },
+      {
+        "name":"Richard Butler",
+        "age":"64"
+      }
+    ],
+    "Version_Type":null,
+    "Notes":null
+  },
+  {
+    "Song":"In The End (from the \"Memento Mori\" sessions)",
+    "Album":"Memento Mori: Mexico City",
+    "Year":2025.0,
+    "Writers":[
+      {
+        "name":"Martin Gore",
+        "age":"61-62"
+      },
+      {
+        "name":"Richard Butler",
+        "age":"64"
+      }
+    ],
+    "Version_Type":null,
+    "Notes":null
   }
 ]
